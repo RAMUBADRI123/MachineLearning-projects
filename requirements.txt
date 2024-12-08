@@ -10,3 +10,4 @@ xgboost
 dill
 dataclasses
 # pickle
+flask
